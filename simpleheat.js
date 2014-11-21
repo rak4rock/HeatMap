@@ -1,4 +1,5 @@
 /*
+All the copy rights are reserved by retisense
  (c) 2014, Adapted by Vladimir Agafonkin, Modified by Rakesh Neela
   simpleheat, a tiny JavaScript library for drawing heatmaps with Canvas
  Source: https://github.com/mourner/simpleheat
